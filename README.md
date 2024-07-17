@@ -44,7 +44,7 @@ THEN the saved tasks persist
 
 > ## Screenshot
 
-  ![image](./Assets/Employee_Tracker_ScreenShot.png)
+  ![image](assets/images/appScreenShot.png)
   
 >## Installation
 
@@ -66,4 +66,4 @@ THEN the saved tasks persist
   
 >## Questions
 
-  If you have any question please visit my GitHub at [djubara](https://github.com/djubara) or send me an email to: <djubara@hotmail.com>
+  If you have any question please visit my GitHub at [djubara](https://github.com/djub) or send me an email to: <djubara@hotmail.com>
